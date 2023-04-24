@@ -1,14 +1,7 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : SQL_NAVASOFT_NUBE_03_C103
- Source Server Type    : SQL Server
- Source Server Version : 13005026
- Source Host           : c103.navasoft.pe:1433
- Source Catalog        : BdNava55
- Source Schema         : dbo
-
- Target Server Type    : SQL Server
+Target Server Type    : SQL Server
  Target Server Version : 13005026
  File Encoding         : 65001
 
